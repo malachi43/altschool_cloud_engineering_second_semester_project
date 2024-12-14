@@ -31,7 +31,7 @@
 - click on the `EC2` search result and you would be taken to another screen that contain
   quite a number of information.
 - on the left side of your screen, you would see a section that has a dropdown heading
-  the reads ``Instances`.
+  the reads `Instances`.
 - click on the dropdown option that says `instances` from the list of dropdowns you will see.
 - after clicking on the dropdown option, the right side of the screen will be populated with some information to help you create an instance.
 - on the right side of the screen toward the top right corner, you will see a button
