@@ -1,15 +1,23 @@
 # CLOUD ENGINEERING SECOND SEMESTER PROJECT 
+#### TASK
+- Provision a Linux Server to serve a simple HTML page.
+- Configure the server to allow HTTP traffic (port 80).
+- Provide the public IP address (or URL if using DNS) so your page can be accessed from any browser.
+
+#### OBJECTIVE
+- Follow a step by step guide to provisioning a linux server to serve a simple HTML page.
+
 ###### public IPv4 address: http://13.61.100.20
 [live link](http://13.61.100.20)
 
 ![banner image](./images/banner.png)
 
 - [Getting Started](#getting-started)
-- [Creating an Instance/Sever](#creating-an-instance-servercompute)
-- [Launching an Instance/Server](#launching-the-instance)
-- [Connecting to Server using SSH](#sshing-into-your-server-from-your-local-machine)
-- [Setting up an Apache Server](#setting-up-an-apache2-server)
-- [Testing The Server](#testing-the-server)
+ - [Creating an Instance/Sever & Configuring Server To Allow HTTP Traffic (port 80)](#creating-an-instance-servercompute)
+ - [Launching an Instance/Server](#launching-the-instance)
+ - [Connecting to Server using SSH  ](#sshing-into-your-server-from-your-local-machine)
+ - [Setting up an Apache Server](#setting-up-an-apache2-server)
+ - [Testing The Server](#testing-the-server)
 
 ## GETTING STARTED
 
