@@ -8,7 +8,7 @@
 - Follow a step by step guide to provisioning a linux server to serve a simple HTML page.
 
 ###### public IPv4 address: http://13.61.100.20
-[live link](http://13.61.100.20)
+###### public IPv4 DNS: http://ec2-13-61-100-20.eu-north-1.compute.amazonaws.com
 
 ![banner image](./images/banner.png)
 
